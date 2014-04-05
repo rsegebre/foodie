@@ -3,7 +3,7 @@
 
 AUTHOR = u'Roberto Segebre'
 DISQUS_SITENAME = 'rsegebre'
-SITENAME = u"foodie.rsegebre"
+SITENAME = u"foodie rsegebre"
 SITEURL = 'http://foodie.rsegebre.com'
 #SITELOGO = 'static/images/favicon.ico'
 
@@ -21,7 +21,6 @@ DISPLAY_CATEGORIES_ON_SIDEBAR = True
 
 #Theme
 THEME = '/Users/rsegebre/Documents/Projects/theme/pelican-elegant-1.3'
-BOOTSTRAP_THEME = 'simplex'
 
 # Blogroll
 LINKS =  (
