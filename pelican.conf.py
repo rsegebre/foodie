@@ -17,7 +17,7 @@ GITHUB_URL = 'http://github.com/rsegebre'
 DEFAULT_LANG='en'
 DISPLAY_TAGS_ON_SIDEBAR = True
 DISPLAY_CATEGORIES_ON_SIDEBAR = True
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 #Theme
 THEME = '/Users/rsegebre/Documents/Projects/theme/pelican-elegant-1.3'
