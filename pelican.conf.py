@@ -20,7 +20,7 @@ DISPLAY_CATEGORIES_ON_SIDEBAR = True
 RELATIVE_URLS = True
 
 #Theme
-THEME = '/Users/rsegebre/Documents/Projects/theme/pelican-elegant-1.3'
+THEME = '/Users/rsegebre/Documents/Projects/theme/pelican-elegant-1.3/'
 
 # Blogroll
 LINKS =  (
