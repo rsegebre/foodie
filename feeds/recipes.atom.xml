@@ -1,4 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>foodie rsegebre</title><link href="http://foodie.rsegebre.com/" rel="alternate"></link><link href="http://foodie.rsegebre.com/feeds/recipes.atom.xml" rel="self"></link><id>http://foodie.rsegebre.com/</id><updated>2014-04-05T00:00:00-04:00</updated><entry><title>Testing website theme:</title><link href="http://foodie.rsegebre.com/testing-website-theme.html" rel="alternate"></link><updated>2014-04-05T00:00:00-04:00</updated><author><name>Roberto Segebre</name></author><id>tag:foodie.rsegebre.com,2014-04-05:testing-website-theme.html</id><summary type="html">&lt;p&gt;I just want to test this theme!&lt;/p&gt;
-&lt;p&gt;TEST NUMBER 2&lt;/p&gt;
-</summary><category term="test"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>foodie rsegebre</title><link href="http://foodie.rsegebre.com/" rel="alternate"></link><link href="http://foodie.rsegebre.com/feeds/recipes.atom.xml" rel="self"></link><id>http://foodie.rsegebre.com/</id><updated>2014-08-12T00:00:00-04:00</updated><entry><title>Mexican Salsa:</title><link href="http://foodie.rsegebre.com/mexican-salsa.html" rel="alternate"></link><updated>2014-08-12T00:00:00-04:00</updated><author><name>Roberto Segebre</name></author><id>tag:foodie.rsegebre.com,2014-08-12:mexican-salsa.html</id><summary type="html">&lt;div class="section" id="name-mexican-salsa"&gt;
+&lt;h2&gt;Name: Mexican Salsa&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div class="section" id="ingredients"&gt;
+&lt;h2&gt;Ingredients:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;assorted chilli peppers ( i.e. jalapenos, habanero, scotch bonnet, etc) (at least 1)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;onion (½ medium onion)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;garlic ( 4 cloves)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;cilantro (optional) (8 stems)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;salt/pepper/cumin&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;For red Salsa: ~ yields 1 cup&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;regular red tomatoes ( 4 roma or small tomatoes )&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;For green Salsa: ~ yields 1 cup&lt;/dt&gt;
+&lt;dd&gt;&lt;ul class="first last simple"&gt;
+&lt;li&gt;jitomates ( green tomatoes) (5 jitomates)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="preparation"&gt;
+&lt;h2&gt;Preparation:&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Set two cups of water to boil with 3 dashes of salt.&lt;/li&gt;
+&lt;li&gt;Wash/rinse tomatoes and jalapenos, and peel garlic and onions.&lt;/li&gt;
+&lt;li&gt;Cut the onion in half and remove the ends ( the root and the tip).&lt;/li&gt;
+&lt;li&gt;Take the top center part of the tomato (where it used to attach to the plant) and then with a small knife make a very shallow incision around the tomato vertically, this will aid in removing the skins later on.&lt;/li&gt;
+&lt;li&gt;Cut stem of jalapenos or pepper, and remove seeds if you want to make it less spicy&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class="section" id="cooking-instructions"&gt;
+&lt;h2&gt;Cooking Instructions:&lt;/h2&gt;
+&lt;p&gt;Put the tomatoes, chilli peppers, garlic, onion and cilantro in the boiling water. Boil until the tomato skins are easy to take out. Then pour the water used to boil the tomatoes on the side and put the tomatoes, garlic, onions, chilli peppers and cilantro in a blender or a container to be mashed with a fork. You can use the water that you put on a side to adjust the thickness of the sauce.&lt;/p&gt;
+&lt;p&gt;Then proceed to grab an empty pan and set on the stove at medium heat, once oil is hot enough pour the salsa. Add salt/pepper/cumin to taste and simmer for 5 minutes. You can boil longer if you want to make the salsa thicker or less if you like the current texture. This step is meant to reduce the tartness of the tomatoes and allow spices to blend in.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="note-s"&gt;
+&lt;h2&gt;Note(s):&lt;/h2&gt;
+&lt;p&gt;Removing the skins is optional since it depends what you are using the salsa for. If it is for mexican rice then you probably want to remove the skins and you want a more liquid salsa versus a more chunky and thick one.
+You can choose to mash the vegetables with a fork to give it more of a chunky texture, but you might need to boil vegetables a bit longer before attempting to mash them.
+Also if you are using the salsa for a dish that is being served cold, remember to adjust spices and test when the salsa is cold and not hot.&lt;/p&gt;
+&lt;p&gt;Enjoy, and let me know how it turned out in the comments below!&lt;/p&gt;
+&lt;p&gt;~rs&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="salsa"></category><category term="mexican"></category></entry></feed>
