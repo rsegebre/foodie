@@ -36,6 +36,34 @@ SOCIAL = (
           ('linkedIn',
 'http://www.linkedin.com/pub/roberto-segebre/40/8b1/6b2'),
          )
+
+# Elegan configuration variables
+PLUGIN_PATH = '/Users/rsegebre/Documents/Projects/pelican-plugins'
+PLUGINS = ['sitemap', 'extract_toc', 'tipue_search']
+MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid', 'toc']
+DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search',
+'404'))
+STATIC_PATHS = ['theme/images', 'images']
+TAG_SAVE_AS = ''
+CATEGORY_SAVE_AS = ''
+AUTHOR_SAVE_AS = ''
+
+#SITEMAP
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
+
 TWITTER_USERNAME = 'rss1989'
 ADDTHIS_PROFILE = 'ra-52d5e9e5415eda76'
 
