@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>foodie.rsegebre</title><link href="http://foodie.rsegebre.com/" rel="alternate"></link><link href="http://foodie.rsegebre.com/feeds/all-en.atom.xml" rel="self"></link><id>http://foodie.rsegebre.com/</id><updated>2014-08-15T00:00:00-04:00</updated><entry><title>Falafels</title><link href="http://foodie.rsegebre.com/falafels.html" rel="alternate"></link><updated>2014-08-15T00:00:00-04:00</updated><author><name>Roberto Segebre</name></author><id>tag:foodie.rsegebre.com,2014-08-15:falafels.html</id><summary type="html">&lt;div class="section" id="ingredients"&gt;
-&lt;h2&gt;Ingredients:&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>foodie.rsegebre</title><link href="http://foodie.rsegebre.com/" rel="alternate"></link><link href="http://foodie.rsegebre.com/feeds/all-en.atom.xml" rel="self"></link><id>http://foodie.rsegebre.com/</id><updated>2014-08-15T00:00:00-04:00</updated><entry><title>Falafels</title><link href="http://foodie.rsegebre.com/falafels.html" rel="alternate"></link><updated>2014-08-15T00:00:00-04:00</updated><author><name>Roberto Segebre</name></author><id>tag:foodie.rsegebre.com,2014-08-15:falafels.html</id><summary type="html">
+&lt;!-- --&gt;
+&lt;div class="section" id="ingredients"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;Ingredients:&lt;/a&gt;&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;15-18 oz can of Chickpeas&lt;/li&gt;
 &lt;li&gt;Parsley/Coriander&lt;/li&gt;
@@ -13,7 +15,7 @@
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="preparation"&gt;
-&lt;h2&gt;Preparation:&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Preparation:&lt;/a&gt;&lt;/h2&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;Drain Chickpeas.&lt;/li&gt;
 &lt;li&gt;Mince the garlic, onions and parsley; add a couple tablespoons of oil and place in a separate container to blend into a paste.&lt;/li&gt;
@@ -23,11 +25,11 @@
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;div class="section" id="cooking-instructions"&gt;
-&lt;h2&gt;Cooking Instructions:&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Cooking Instructions:&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Once you are done preparing all the falafels, get a pan on medium-low heat add enough vegetable oil to cover half of the falafels. Wait until the oil is hot enough, you can test by adding a bit of the falafel mix and seeing if bubbles start coming out. Then you can start putting the falafels in the frying pan. Cook 5 minutes on each side, or until brown crispy outside.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="note"&gt;
-&lt;h2&gt;Note:&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id4"&gt;Note:&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;I like eating these with lightly toasted pita bread cut in half to make a small pocket to insert falafels. Then add a little sauce which is a mixture of diced cucumber, tomatoes, plain greek yogurt, a dash or two of milk and salt.&lt;/p&gt;
 &lt;p&gt;Enjoy and let me know if you have any suggestions below!&lt;/p&gt;
 &lt;p&gt;~rs&lt;/p&gt;

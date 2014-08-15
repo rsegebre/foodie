@@ -6,6 +6,9 @@ Falafels
 :tags: vegetarian, middle-eastern
 :category: Recipes
 
+.. contents::
+..
+
 Ingredients:
 ============
 * 15-18 oz can of Chickpeas
