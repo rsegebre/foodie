@@ -7,7 +7,6 @@ Falafels
 :category: Recipes
 
 .. contents::
-..
 
 Ingredients:
 ============
