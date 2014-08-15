@@ -1,7 +1,7 @@
 About
 ######
 
-date: 2014-08-13
+:date: 2014-08-13
 
 Welcome to foodie.rsegebre.com, a place to talk share content about (1) recipes, (2) document any food experiences around Boston and neighboring areas, (3) figure out ways in which technology can innovate cooking and (4) criticize/try-out recipes that I find online and see how feasable they are.
 

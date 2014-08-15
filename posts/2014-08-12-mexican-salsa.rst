@@ -1,4 +1,4 @@
-Mexican Salsa:
+Mexican Salsa
 #######################
 
 :date: 2014-08-12
@@ -6,9 +6,6 @@ Mexican Salsa:
 :tags: salsa, mexican
 :category: Recipes
 
-
-Name: Mexican Salsa
-====================
 Ingredients:
 ===============
 * assorted chilli peppers ( i.e. jalapenos, habanero, scotch bonnet, etc) (at least 1)

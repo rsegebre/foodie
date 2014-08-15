@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://foodie.rsegebre.com/index.html</loc>
-<lastmod>2014-08-15T00:45:17-00:00</lastmod>
+<lastmod>2014-08-15T00:51:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://foodie.rsegebre.com/archives.html</loc>
-<lastmod>2014-08-15T00:45:17-00:00</lastmod>
+<lastmod>2014-08-15T00:51:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://foodie.rsegebre.com/tags.html</loc>
-<lastmod>2014-08-15T00:45:17-00:00</lastmod>
+<lastmod>2014-08-15T00:51:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://foodie.rsegebre.com/categories.html</loc>
-<lastmod>2014-08-15T00:45:17-00:00</lastmod>
+<lastmod>2014-08-15T00:51:24-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://foodie.rsegebre.com/pages/about.html</loc>
-<lastmod>2014-08-15T00:45:17-00:00</lastmod>
+<lastmod>2014-08-13T00:00:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://foodie.rsegebre.com/falafels.html</loc>
+<lastmod>2014-08-15T00:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -47,7 +54,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://foodie.rsegebre.com/category/recipes.html</loc>
-<lastmod>2014-08-12T00:00:00-00:00</lastmod>
+<lastmod>2014-08-15T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -60,6 +67,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://foodie.rsegebre.com/tag/vegetarian.html</loc>
+<lastmod>2014-08-15T00:00:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://foodie.rsegebre.com/tag/mexican.html</loc>
 <lastmod>2014-08-12T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
@@ -67,8 +81,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://foodie.rsegebre.com/tag/middle-eastern.html</loc>
+<lastmod>2014-08-15T00:00:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://foodie.rsegebre.com/author/roberto-segebre.html</loc>
-<lastmod>2014-08-12T00:00:00-00:00</lastmod>
+<lastmod>2014-08-15T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
