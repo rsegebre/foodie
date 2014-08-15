@@ -3,7 +3,7 @@
 
 AUTHOR = u'Roberto Segebre'
 DISQUS_SITENAME = 'rsegebre'
-SITENAME = u"foodie rsegebre"
+SITENAME = u"foodie.rsegebre"
 SITEURL = 'http://foodie.rsegebre.com'
 #SITELOGO = 'static/images/favicon.ico'
 
