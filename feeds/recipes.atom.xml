@@ -1,20 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>foodie.rsegebre</title><link href="http://foodie.rsegebre.com/" rel="alternate"></link><link href="http://foodie.rsegebre.com/feeds/recipes.atom.xml" rel="self"></link><id>http://foodie.rsegebre.com/</id><updated>2014-08-16T00:00:00-04:00</updated><entry><title>Vegetable and Beef Bone Soup</title><link href="http://foodie.rsegebre.com/vegetable-and-beef-bone-soup.html" rel="alternate"></link><updated>2014-08-16T00:00:00-04:00</updated><author><name>Roberto Segebre</name></author><id>tag:foodie.rsegebre.com,2014-08-16:vegetable-and-beef-bone-soup.html</id><summary type="html">
+<feed xmlns="http://www.w3.org/2005/Atom"><title>foodie.rsegebre</title><link href="http://foodie.rsegebre.com/" rel="alternate"></link><link href="http://foodie.rsegebre.com/feeds/recipes.atom.xml" rel="self"></link><id>http://foodie.rsegebre.com/</id><updated>2014-08-19T00:00:00-04:00</updated><entry><title>Mexican Rice</title><link href="http://foodie.rsegebre.com/mexican-rice.html" rel="alternate"></link><updated>2014-08-19T00:00:00-04:00</updated><author><name>Roberto Segebre</name></author><id>tag:foodie.rsegebre.com,2014-08-19:mexican-rice.html</id><summary type="html">
+&lt;p&gt;Serves: 2 people&lt;/p&gt;
 &lt;div class="section" id="ingredients"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;Ingredients:&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;2 lbs of Round Bone Cut Beef
-Baby Corn
-Yellow Corn
-2-4 Carrots
-Potatoes
-1 Small Whole Green Cabbage
-Green Beans
-Cilantro
-Onions
-Zucchini
-Yucca (optional)
-Beets (optional)
-Beef Broth (optional)&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;1 cup Long grain rice&lt;/li&gt;
+&lt;li&gt;1/3 cup diced Onion ( ~1/2 a small onion )&lt;/li&gt;
+&lt;li&gt;1/3 cup minced garlic ( ~4-5 garlic cloves )&lt;/li&gt;
+&lt;li&gt;1 cup of water or broth of choice&lt;/li&gt;
+&lt;li&gt;1 cup of a can of crushed tomatoes (or any not-too-thick salsa you have around)&lt;/li&gt;
+&lt;li&gt;Frozen veggies to taste&lt;/li&gt;
+&lt;li&gt;4 tablespoons of vegetable/canola/corn oil.&lt;/li&gt;
+&lt;li&gt;Salt/pepper/turmeric/paprika&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="preparation"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Preparation:&lt;/a&gt;&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Dice the onion&lt;/li&gt;
+&lt;li&gt;Mince the garlic&lt;/li&gt;
+&lt;li&gt;Warm up the salsa&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;div class="section" id="cooking-instructions"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id3"&gt;Cooking Instructions:&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In a medium size pan at low-medium heat, put a couple tablespoons of oil and add the onion and garlic. Sauté until it starts getting translucent, meanwhile add salt, pepper and paprika to taste. And two pinches of turmeric. Then add another two tablespoons of oil, and add the dry rice (no need to rinse it). Stir until the rice starts getting a bit translucent. Then add the 1 cup of salsa and 1 cup of broth, stir and turn up heat to medium. Once it starts to simmer, lay frozen veggies of choice on the top. Finally, put a lid on the pan and set heat to low. Cook for 13-15 minutes or until rice is fluffy.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="note-s"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id4"&gt;Note(s):&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I think of this is a side dish, so I usually have it with some chicken fillets, or any other protein. To plate it a just serve it on a side, slice half an avocado and lay it on top of the rice with a bit of your favorite salsa on top.&lt;/p&gt;
+&lt;p&gt;~rs&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="rice"></category><category term="mexicpo"></category><category term="vegetarian"></category></entry><entry><title>Vegetable and Beef Bone Soup</title><link href="http://foodie.rsegebre.com/vegetable-and-beef-bone-soup.html" rel="alternate"></link><updated>2014-08-16T00:00:00-04:00</updated><author><name>Roberto Segebre</name></author><id>tag:foodie.rsegebre.com,2014-08-16:vegetable-and-beef-bone-soup.html</id><summary type="html">
+&lt;div class="section" id="ingredients"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id1"&gt;Ingredients:&lt;/a&gt;&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;2 lbs of Round Bone Cut Beef&lt;/li&gt;
+&lt;li&gt;Baby Corn&lt;/li&gt;
+&lt;li&gt;Yellow Corn&lt;/li&gt;
+&lt;li&gt;2-4 Carrots&lt;/li&gt;
+&lt;li&gt;Potatoes&lt;/li&gt;
+&lt;li&gt;1 Small Whole Green Cabbage&lt;/li&gt;
+&lt;li&gt;Green Beans&lt;/li&gt;
+&lt;li&gt;Cilantro&lt;/li&gt;
+&lt;li&gt;Onions&lt;/li&gt;
+&lt;li&gt;Zucchini&lt;/li&gt;
+&lt;li&gt;Yucca (optional)&lt;/li&gt;
+&lt;li&gt;Beets (optional)&lt;/li&gt;
+&lt;li&gt;Beef Broth (optional)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="preparation"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="#id2"&gt;Preparation:&lt;/a&gt;&lt;/h2&gt;

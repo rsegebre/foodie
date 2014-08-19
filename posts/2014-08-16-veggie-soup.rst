@@ -10,19 +10,19 @@ Vegetable and Beef Bone Soup
 
 Ingredients:
 ============
-2 lbs of Round Bone Cut Beef
-Baby Corn
-Yellow Corn
-2-4 Carrots
-Potatoes
-1 Small Whole Green Cabbage
-Green Beans
-Cilantro
-Onions
-Zucchini
-Yucca (optional)
-Beets (optional)
-Beef Broth (optional)
+* 2 lbs of Round Bone Cut Beef
+* Baby Corn
+* Yellow Corn
+* 2-4 Carrots
+* Potatoes
+* 1 Small Whole Green Cabbage
+* Green Beans
+* Cilantro
+* Onions
+* Zucchini
+* Yucca (optional)
+* Beets (optional)
+* Beef Broth (optional)
 
 Preparation:
 ============
